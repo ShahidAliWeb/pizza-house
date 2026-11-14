@@ -1,0 +1,6 @@
+{
+  "name": "Pizza House – Restaurant Management & Online Ordering",
+  "description": "Production-grade restaurant management and online ordering system for Pizza House in Pakistan, featuring full customer ordering, order tracking, admin dashboard, kitchen workflow, recipe inventory deduction, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
